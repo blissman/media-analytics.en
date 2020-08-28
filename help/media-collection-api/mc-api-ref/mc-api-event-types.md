@@ -44,7 +44,7 @@ Signals the start of an ad
 
 ## adComplete
 
-Signals the completion of an ad break
+Signals the completion of an ad
 
 ## adSkip
 
